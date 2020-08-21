@@ -14,3 +14,6 @@ An upcoming web-developer and designer
 # Contact information
 
 # license and copyright information
+MIT LICENCE This project is licence under copyright (c) 2020 Migot Sharon MIT
+
+
