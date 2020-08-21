@@ -16,7 +16,7 @@ clear
 MIT LICENCE</a>
 This  project is licence under <a href="https://opensource.org/licenses/MIT"></a>
 copyright (c) 2020 Migot Sharon
-[MIT](https://github.com/MigotSharon/Portfolio/blob/master/LICENCE)
+[MIT](https://github.com/MigotSharon/Akan-names/blob/master/LICENSE)
 
 
 
