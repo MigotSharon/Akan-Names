@@ -12,6 +12,8 @@ clear
 * HTML and CSS(Bootstrap)
 * JAVASCRIPT
 # Contact information
+* Number:0790437491
+* Email:migotsharon@gmail.com
 
 # license and copyright information
 MIT LICENCE</a>
