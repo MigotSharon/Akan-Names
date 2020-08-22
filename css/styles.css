@@ -1,3 +1,25 @@
-.females{
-    padding-left: 390px;
+body{
+    background-image: url(../images/flag.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.generator{
+    padding-top: 50px;
+}
+
+h1,h2{
+    color: rgb(136, 134, 9);
+}
+.text{
+    color: white;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.form-control{
+    width:30%;
+}
+#frm1{
+    margin-left: 20%;
+    padding-top: 20px;
 }
