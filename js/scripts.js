@@ -41,10 +41,10 @@ function myFunction(event) {
   } else {
     alert(
       " For Her Born On " +
-        " Undifined Date " +
+        " Undefined Date " +
         "," +
         " Your Akan Name Is " +
-        " Undifined"
+        " Undefined"
     );
   }
 }
