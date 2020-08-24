@@ -1,14 +1,12 @@
 body{
-    background-image: url(../images/flag.jpg);
+    background-image: url(../images/flad.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-}
-.generator{
     padding-top: 50px;
 }
 
 h1,h2{
-    color: rgb(136, 134, 9);
+    color: rgb(245, 241, 16);
 }
 .text{
     color: white;
