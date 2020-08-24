@@ -7,12 +7,12 @@
 # BDD
 | Input (Gender) | Input (Date Of Birth) | Calculated Day of Birth | Output(Akan-name) |
 | ------------ | ------------ | ------------ | ------------ |
-| Female | 02-01-2002 | Wednesday | Akua |
-| Male | 02-o1-2002 | Wednesday | Kwaku |
+| Female | 03-01-2002 | Thursday | Yaa |
+| Male | 03-01-2002 | Thursday | Yaw |
 | Problem to be solved | Input (Gender(male/female)) | Input (Date Of Birth) | Outputs(Akan-name) |
 | ------------| ------------| ------------ | ------------ |
-| Find akan name| Female | 02-01-2002 | Akua |
-| Find akan-name| Male | 02-01-2002 | Kwaku |
+| Find akan name| Female | 03-01-2002 | Yaa |
+| Find akan-name| Male | 03-01-2002 | Yaw |
 
 
 
